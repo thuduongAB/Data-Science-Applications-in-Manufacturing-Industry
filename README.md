@@ -1,1 +1,1 @@
-# demand_forecast
+# Data-Science-Applications-in-Manufacturing-Industry
